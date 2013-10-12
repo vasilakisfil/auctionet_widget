@@ -61,7 +61,7 @@
             {
                "bidder":1,
                "color":"#000000",
-               "amount":0,
+               "amount":100,
                "your_bid":false,
                "reserve_met":true,
                "timestamp":1
@@ -95,7 +95,7 @@
             {
                "bidder":1,
                "color":"#000000",
-               "amount":0,
+               "amount":200,
                "your_bid":false,
                "reserve_met":true,
                "timestamp":2
@@ -129,7 +129,7 @@
             {
                "bidder":1,
                "color":"#000000",
-               "amount":0,
+               "amount":300,
                "your_bid":false,
                "reserve_met":true,
                "timestamp":3
@@ -163,7 +163,7 @@
             {
                "bidder":1,
                "color":"#000000",
-               "amount":0,
+               "amount":400,
                "your_bid":false,
                "reserve_met":true,
                "timestamp":4
@@ -197,7 +197,7 @@
             {
                "bidder":1,
                "color":"#000000",
-               "amount":0,
+               "amount":500,
                "your_bid":false,
                "reserve_met":true,
                "timestamp":5
@@ -231,7 +231,7 @@
             {
                "bidder":1,
                "color":"#000000",
-               "amount":0,
+               "amount":600,
                "your_bid":false,
                "reserve_met":true,
                "timestamp":6
@@ -265,7 +265,7 @@
             {
                "bidder":1,
                "color":"#000000",
-               "amount":0,
+               "amount":700,
                "your_bid":false,
                "reserve_met":true,
                "timestamp":7
@@ -299,7 +299,7 @@
             {
                "bidder":1,
                "color":"#000000",
-               "amount":0,
+               "amount":800,
                "your_bid":false,
                "reserve_met":true,
                "timestamp":8
@@ -333,7 +333,7 @@
             {
                "bidder":1,
                "color":"#000000",
-               "amount":0,
+               "amount":900,
                "your_bid":false,
                "reserve_met":true,
                "timestamp":9

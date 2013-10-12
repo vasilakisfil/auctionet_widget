@@ -27,7 +27,7 @@ describe Helpers do
           expect(results[num][:image]).to eq("image#{num}.JPG")
           expect(results[num][:link]).to eq("#{app_link}/#{results[num][:item_id]}")
           expect(results[num][:ends_at]).to eq(Time.at(num))
-          #expect(results[num][:bid_amount]).to equal(num)
+          expect(results[num][:bid_amount]).to equal(num*100)
           expect(results[num][:bid_time]).to eq(Time.at(num))
         end
       end
