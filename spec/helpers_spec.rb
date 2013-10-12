@@ -4,7 +4,7 @@ require 'json'
 require 'rspec'
 
 describe Helpers do
-
+=begin
   class DummyClass
   end
 
@@ -12,7 +12,7 @@ describe Helpers do
     @helper = DummyClass.new
     @helper.extend(Helpers)
   end
-
+=end
   describe ".parseJSON" do
     context "with valid json" do
       it "returns valid data" do
@@ -20,12 +20,12 @@ describe Helpers do
         response = File.read("spec/test_data.json")
         json_data = JSON.parse(response)
         results = Hash.new
-        results = @helper.parse_json_data(json_data)
+        results = Helpers::parse_json_data(json_data)
         for num in 0..8 do
           expect(results[num][:item_id]).to eq(num)
           expect(results[num][:title]).to eq("title#{num}")
           expect(results[num][:image]).to eq("image#{num}.JPG")
-          expect(results[num][:link]).to eq("#{app_link}/#{results[num][:item_id]}")
+          expect(results[num][:item_href]).to eq("#{app_link}/#{results[num][:item_id]}")
           expect(results[num][:ends_at]).to eq(Time.at(num))
           expect(results[num][:bid_amount]).to equal(num*100)
           expect(results[num][:bid_time]).to eq(Time.at(num))
