@@ -1,1 +1,3 @@
-Check out http://shopify.github.com/dashing for more information.
+#Auctionet latest bids
+
+Run `rake run` to run the app or `rake spec` to run the tests.
