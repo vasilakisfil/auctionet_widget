@@ -4,16 +4,7 @@ require 'json'
 require 'rspec'
 
 describe Helpers do
-=begin
-  class DummyClass
-  end
-
-  before(:each) do
-    @helper = DummyClass.new
-    @helper.extend(Helpers)
-  end
-=end
-  describe ".parseJSON" do
+  describe ".parse_json_data" do
     context "with valid json" do
       it "returns valid data" do
         app_link = "http://auctionet.com"
@@ -26,11 +17,17 @@ describe Helpers do
           expect(results[num][:title]).to eq("title#{num}")
           expect(results[num][:image]).to eq("image#{num}.JPG")
           expect(results[num][:item_href]).to eq("#{app_link}/#{results[num][:item_id]}")
-          expect(results[num][:ends_at]).to eq(Time.at(num))
+          expect(results[num][:ends_at]).to eq(Time.at(2000000000 + num))
           expect(results[num][:bid_amount]).to equal(num*100)
           expect(results[num][:bid_time]).to eq(Time.at(num))
         end
       end
     end
+  end
+
+  describe ".send_event_data" do
+
+
+
   end
 end
