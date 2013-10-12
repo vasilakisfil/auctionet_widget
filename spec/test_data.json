@@ -1,1604 +1,342 @@
 {
    "items":[
       {
-         "id":1111,
-         "reserve_met":false,
-         "estimate":2000,
+         "id":0,
+         "reserve_met":true,
+         "estimate":0,
+         "title":"title0",
+         "description":"random",
+         "condition":"random",
+         "company_id":0,
+         "category_id":0,
+         "ends_at":0,
+         "published_at":0,
+         "location":"random",
+         "house":"random",
+         "placement":"random",
+         "transport_price":"random",
+         "transport_info":"random",
+         "images":[
+            {
+               "thumb":"random.JPG",
+               "mini":"image0.JPG",
+               "hd":"random.JPG"
+            }
+         ],
+         "bids":[
+            {
+               "bidder":1,
+               "color":"#000000",
+               "amount":0,
+               "your_bid":false,
+               "reserve_met":true,
+               "timestamp":0
+            }
+         ]
+      },
+      {
+         "id":1,
+         "reserve_met":true,
+         "estimate":0,
          "title":"title1",
-         "description":"Motiv av by. 63 x 44 cm.",
-         "condition":"Krackelering samt mindre fl\u00e4ckar.",
-         "company_id":10,
-         "category_id":28,
-         "ends_at":1382209800,
-         "published_at":1381506108,
-         "location":"G\u00f6teborg",
-         "house":"G\u00f6teborgs Auktionsverk",
-         "placement":"Tavelvagn 4",
-         "transport_price":"200\u00a0SEK",
-         "transport_info":"H\u00e4mtas p\u00e5 plats eller transporteras till G\u00e4vle/\u00c4lvkarleby, Helsingfors, Link\u00f6ping, Lule\u00e5, Malm\u00f6, Oskarshamn, Stockholm, Ume\u00e5 och \u00c4ngelholm.",
+         "description":"random",
+         "condition":"random",
+         "company_id":0,
+         "category_id":0,
+         "ends_at":1,
+         "published_at":0,
+         "location":"random",
+         "house":"random",
+         "placement":"random",
+         "transport_price":"random",
+         "transport_info":"random",
          "images":[
             {
-               "thumb":"https://d3c67tt2e11gmk.cloudfront.net/uploads/thumb_item_85962_53b7e82f8d.JPG",
-               "mini":"https://d3c67tt2e11gmk.cloudfront.net/uploads/mini_item_85962_53b7e82f8d.JPG",
-               "hd":"https://d3c67tt2e11gmk.cloudfront.net/uploads/hd_item_85962_53b7e82f8d.JPG"
-            },
-            {
-               "thumb":"https://d3c67tt2e11gmk.cloudfront.net/uploads/thumb_item_85962_e3b64c7200.JPG",
-               "mini":"https://d3c67tt2e11gmk.cloudfront.net/uploads/mini_item_85962_e3b64c7200.JPG",
-               "hd":"https://d3c67tt2e11gmk.cloudfront.net/uploads/hd_item_85962_e3b64c7200.JPG"
-            },
-            {
-               "thumb":"https://d3c67tt2e11gmk.cloudfront.net/uploads/thumb_item_85962_f79c24a3eb.JPG",
-               "mini":"https://d3c67tt2e11gmk.cloudfront.net/uploads/mini_item_85962_f79c24a3eb.JPG",
-               "hd":"https://d3c67tt2e11gmk.cloudfront.net/uploads/hd_item_85962_f79c24a3eb.JPG"
-            },
-            {
-               "thumb":"https://d3c67tt2e11gmk.cloudfront.net/uploads/thumb_item_85962_87ed8981e4.JPG",
-               "mini":"https://d3c67tt2e11gmk.cloudfront.net/uploads/mini_item_85962_87ed8981e4.JPG",
-               "hd":"https://d3c67tt2e11gmk.cloudfront.net/uploads/hd_item_85962_87ed8981e4.JPG"
+               "thumb":"random.JPG",
+               "mini":"image1.JPG",
+               "hd":"random.JPG"
             }
          ],
          "bids":[
             {
                "bidder":1,
-               "color":"#2CC9C9",
-               "amount":300,
+               "color":"#000000",
+               "amount":0,
                "your_bid":false,
-               "reserve_met":false,
-               "timestamp":1381589990
+               "reserve_met":true,
+               "timestamp":1
             }
          ]
       },
       {
-         "id":100717,
+         "id":2,
          "reserve_met":true,
-         "estimate":800,
-         "title":"F\u00d6RST\u00c4RKARE, Line 6, Flextone plus.",
-         "description":"60 W.",
-         "condition":"Bruksslitage.",
-         "company_id":9,
-         "category_id":51,
-         "ends_at":1382259840,
-         "published_at":1381414371,
-         "location":"Link\u00f6ping",
-         "house":"Gom\u00e9r & Andersson",
-         "placement":"V58",
-         "transport_price":"400\u00a0SEK",
-         "transport_info":"H\u00e4mtas p\u00e5 plats eller transporteras till G\u00e4vle/\u00c4lvkarleby, G\u00f6teborg, Helsingfors, Lule\u00e5, Malm\u00f6, Oskarshamn, Stockholm, Ume\u00e5 och \u00c4ngelholm.",
+         "estimate":0,
+         "title":"title2",
+         "description":"random",
+         "condition":"random",
+         "company_id":0,
+         "category_id":0,
+         "ends_at":2,
+         "published_at":0,
+         "location":"random",
+         "house":"random",
+         "placement":"random",
+         "transport_price":"random",
+         "transport_info":"random",
          "images":[
             {
-               "thumb":"https://d3c67tt2e11gmk.cloudfront.net/uploads/thumb_item_100717_1d3b509835.JPG",
-               "mini":"https://d3c67tt2e11gmk.cloudfront.net/uploads/mini_item_100717_1d3b509835.JPG",
-               "hd":"https://d3c67tt2e11gmk.cloudfront.net/uploads/hd_item_100717_1d3b509835.JPG"
-            },
-            {
-               "thumb":"https://d3c67tt2e11gmk.cloudfront.net/uploads/thumb_item_100717_aecdf491e2.JPG",
-               "mini":"https://d3c67tt2e11gmk.cloudfront.net/uploads/mini_item_100717_aecdf491e2.JPG",
-               "hd":"https://d3c67tt2e11gmk.cloudfront.net/uploads/hd_item_100717_aecdf491e2.JPG"
-            },
-            {
-               "thumb":"https://d3c67tt2e11gmk.cloudfront.net/uploads/thumb_item_100717_97e6a8faac.JPG",
-               "mini":"https://d3c67tt2e11gmk.cloudfront.net/uploads/mini_item_100717_97e6a8faac.JPG",
-               "hd":"https://d3c67tt2e11gmk.cloudfront.net/uploads/hd_item_100717_97e6a8faac.JPG"
-            },
-            {
-               "thumb":"https://d3c67tt2e11gmk.cloudfront.net/uploads/thumb_item_100717_d4ddc85dd5.JPG",
-               "mini":"https://d3c67tt2e11gmk.cloudfront.net/uploads/mini_item_100717_d4ddc85dd5.JPG",
-               "hd":"https://d3c67tt2e11gmk.cloudfront.net/uploads/hd_item_100717_d4ddc85dd5.JPG"
-            },
-            {
-               "thumb":"https://d3c67tt2e11gmk.cloudfront.net/uploads/thumb_item_100717_2a57ea8a3a.JPG",
-               "mini":"https://d3c67tt2e11gmk.cloudfront.net/uploads/mini_item_100717_2a57ea8a3a.JPG",
-               "hd":"https://d3c67tt2e11gmk.cloudfront.net/uploads/hd_item_100717_2a57ea8a3a.JPG"
+               "thumb":"random.JPG",
+               "mini":"image2.JPG",
+               "hd":"random.JPG"
             }
          ],
          "bids":[
             {
                "bidder":1,
-               "color":"#2CC9C9",
-               "amount":300,
+               "color":"#000000",
+               "amount":0,
                "your_bid":false,
                "reserve_met":true,
-               "timestamp":1381589838
+               "timestamp":2
             }
          ]
       },
       {
-         "id":98709,
+         "id":3,
          "reserve_met":true,
-         "estimate":1000,
-         "title":"BANKETTER, ett par, Karl-Johan stil.",
-         "description":"L\u00e4ngd 57 cm.",
-         "condition":"Slitage, skador.",
-         "company_id":1,
-         "category_id":18,
-         "ends_at":1381769460,
-         "published_at":1380816561,
-         "location":"Stockholm",
-         "house":"Kolonn",
-         "placement":"H3",
-         "transport_price":"600\u00a0SEK",
-         "transport_info":"H\u00e4mtas p\u00e5 plats eller transporteras till G\u00e4vle/\u00c4lvkarleby, G\u00f6teborg, Helsingfors, Link\u00f6ping, Lule\u00e5, Malm\u00f6, Oskarshamn, Ume\u00e5 och \u00c4ngelholm.",
+         "estimate":0,
+         "title":"title3",
+         "description":"random",
+         "condition":"random",
+         "company_id":0,
+         "category_id":0,
+         "ends_at":3,
+         "published_at":0,
+         "location":"random",
+         "house":"random",
+         "placement":"random",
+         "transport_price":"random",
+         "transport_info":"random",
          "images":[
             {
-               "thumb":"https://d3c67tt2e11gmk.cloudfront.net/uploads/thumb_item_98709_c7d87b4517.JPG",
-               "mini":"https://d3c67tt2e11gmk.cloudfront.net/uploads/mini_item_98709_c7d87b4517.JPG",
-               "hd":"https://d3c67tt2e11gmk.cloudfront.net/uploads/hd_item_98709_c7d87b4517.JPG"
-            },
-            {
-               "thumb":"https://d3c67tt2e11gmk.cloudfront.net/uploads/thumb_item_98709_b25f24c1fb.JPG",
-               "mini":"https://d3c67tt2e11gmk.cloudfront.net/uploads/mini_item_98709_b25f24c1fb.JPG",
-               "hd":"https://d3c67tt2e11gmk.cloudfront.net/uploads/hd_item_98709_b25f24c1fb.JPG"
+               "thumb":"random.JPG",
+               "mini":"image3.JPG",
+               "hd":"random.JPG"
             }
          ],
          "bids":[
             {
-               "bidder":2,
-               "color":"#C9C92C",
-               "amount":450,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1381589779
-            },
-            {
                "bidder":1,
-               "color":"#2CC9C9",
-               "amount":400,
+               "color":"#000000",
+               "amount":0,
                "your_bid":false,
                "reserve_met":true,
-               "timestamp":1381589754
-            },
-            {
-               "bidder":2,
-               "color":"#C9C92C",
-               "amount":350,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1381589754
-            },
-            {
-               "bidder":1,
-               "color":"#2CC9C9",
-               "amount":300,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1381568314
+               "timestamp":3
             }
          ]
       },
       {
-         "id":101216,
-         "reserve_met":false,
-         "estimate":10000,
-         "title":"KARMSTOL, rokoko, 1700-tal, m\u00e4rkt med  Stockholms stolmakar\u00e4mbetes sigill.",
-         "description":"Karmstol, rokoko 1700-tal.",
-         "condition":"Renoverad, kompletterad.",
-         "company_id":6,
-         "category_id":18,
-         "ends_at":1382363100,
-         "published_at":1381506215,
-         "location":"\u00c4ngelholm",
-         "house":"Auktionsverket Engelholm",
-         "placement":"Sal 1",
-         "transport_price":"400\u00a0SEK",
-         "transport_info":"H\u00e4mtas p\u00e5 plats eller transporteras till G\u00e4vle/\u00c4lvkarleby, G\u00f6teborg, Helsingfors, Link\u00f6ping, Lule\u00e5, Malm\u00f6, Oskarshamn, Stockholm och Ume\u00e5.",
-         "images":[
-            {
-               "thumb":"https://d3c67tt2e11gmk.cloudfront.net/uploads/thumb_item_101216_aa7ec3a02e.JPG",
-               "mini":"https://d3c67tt2e11gmk.cloudfront.net/uploads/mini_item_101216_aa7ec3a02e.JPG",
-               "hd":"https://d3c67tt2e11gmk.cloudfront.net/uploads/hd_item_101216_aa7ec3a02e.JPG"
-            },
-            {
-               "thumb":"https://d3c67tt2e11gmk.cloudfront.net/uploads/thumb_item_101216_e426729c0f.JPG",
-               "mini":"https://d3c67tt2e11gmk.cloudfront.net/uploads/mini_item_101216_e426729c0f.JPG",
-               "hd":"https://d3c67tt2e11gmk.cloudfront.net/uploads/hd_item_101216_e426729c0f.JPG"
-            },
-            {
-               "thumb":"https://d3c67tt2e11gmk.cloudfront.net/uploads/thumb_item_101216_fa4f8f1d86.JPG",
-               "mini":"https://d3c67tt2e11gmk.cloudfront.net/uploads/mini_item_101216_fa4f8f1d86.JPG",
-               "hd":"https://d3c67tt2e11gmk.cloudfront.net/uploads/hd_item_101216_fa4f8f1d86.JPG"
-            },
-            {
-               "thumb":"https://d3c67tt2e11gmk.cloudfront.net/uploads/thumb_item_101216_5e18f593e2.JPG",
-               "mini":"https://d3c67tt2e11gmk.cloudfront.net/uploads/mini_item_101216_5e18f593e2.JPG",
-               "hd":"https://d3c67tt2e11gmk.cloudfront.net/uploads/hd_item_101216_5e18f593e2.JPG"
-            },
-            {
-               "thumb":"https://d3c67tt2e11gmk.cloudfront.net/uploads/thumb_item_101216_30f3c8a4f2.JPG",
-               "mini":"https://d3c67tt2e11gmk.cloudfront.net/uploads/mini_item_101216_30f3c8a4f2.JPG",
-               "hd":"https://d3c67tt2e11gmk.cloudfront.net/uploads/hd_item_101216_30f3c8a4f2.JPG"
-            }
-         ],
-         "bids":[
-            {
-               "bidder":3,
-               "color":"#E58A8A",
-               "amount":2600,
-               "your_bid":false,
-               "reserve_met":false,
-               "timestamp":1381589581
-            },
-            {
-               "bidder":2,
-               "color":"#C9C92C",
-               "amount":2000,
-               "your_bid":false,
-               "reserve_met":false,
-               "timestamp":1381568880
-            },
-            {
-               "bidder":1,
-               "color":"#2CC9C9",
-               "amount":333,
-               "your_bid":false,
-               "reserve_met":false,
-               "timestamp":1381509314
-            }
-         ]
-      },
-      {
-         "id":100427,
+         "id":4,
          "reserve_met":true,
-         "estimate":800,
-         "title":"VYKORT, med erotiska motiv, ca 8000 st.",
-         "description":"ca 14,5 x 10,5 cm.",
-         "condition":"Inga anm\u00e4rkningar.",
-         "company_id":1,
-         "category_id":47,
-         "ends_at":1382465520,
-         "published_at":1381506380,
-         "location":"Stockholm",
-         "house":"Kolonn",
-         "placement":"H1",
-         "transport_price":"600\u00a0SEK",
-         "transport_info":"H\u00e4mtas p\u00e5 plats eller transporteras till G\u00e4vle/\u00c4lvkarleby, G\u00f6teborg, Helsingfors, Link\u00f6ping, Lule\u00e5, Malm\u00f6, Oskarshamn, Ume\u00e5 och \u00c4ngelholm.",
+         "estimate":0,
+         "title":"title4",
+         "description":"random",
+         "condition":"random",
+         "company_id":0,
+         "category_id":0,
+         "ends_at":4,
+         "published_at":0,
+         "location":"random",
+         "house":"random",
+         "placement":"random",
+         "transport_price":"random",
+         "transport_info":"random",
          "images":[
             {
-               "thumb":"https://d3c67tt2e11gmk.cloudfront.net/uploads/thumb_item_100427_94a56be7e8.JPG",
-               "mini":"https://d3c67tt2e11gmk.cloudfront.net/uploads/mini_item_100427_94a56be7e8.JPG",
-               "hd":"https://d3c67tt2e11gmk.cloudfront.net/uploads/hd_item_100427_94a56be7e8.JPG"
-            },
-            {
-               "thumb":"https://d3c67tt2e11gmk.cloudfront.net/uploads/thumb_item_100427_337da938cb.JPG",
-               "mini":"https://d3c67tt2e11gmk.cloudfront.net/uploads/mini_item_100427_337da938cb.JPG",
-               "hd":"https://d3c67tt2e11gmk.cloudfront.net/uploads/hd_item_100427_337da938cb.JPG"
+               "thumb":"random.JPG",
+               "mini":"image4.JPG",
+               "hd":"random.JPG"
             }
          ],
          "bids":[
             {
                "bidder":1,
-               "color":"#2CC9C9",
-               "amount":300,
+               "color":"#000000",
+               "amount":0,
                "your_bid":false,
                "reserve_met":true,
-               "timestamp":1381589517
+               "timestamp":4
             }
          ]
       },
       {
-         "id":97691,
+         "id":5,
          "reserve_met":true,
-         "estimate":800,
-         "title":"GOLVLAMPOR, ett par, Elidus, 1900-talets andra h\u00e4lft.",
-         "description":"H\u00f6jd ca 122 cm.",
-         "condition":"Bruksslitage.",
-         "company_id":1,
-         "category_id":2,
-         "ends_at":1381691640,
-         "published_at":1380714371,
-         "location":"Stockholm",
-         "house":"Kolonn",
-         "placement":"A Special vid kunddisk",
-         "transport_price":"500\u00a0SEK",
-         "transport_info":"H\u00e4mtas p\u00e5 plats eller transporteras till G\u00e4vle/\u00c4lvkarleby, G\u00f6teborg, Helsingfors, Link\u00f6ping, Lule\u00e5, Malm\u00f6, Oskarshamn, Ume\u00e5 och \u00c4ngelholm.",
+         "estimate":0,
+         "title":"title5",
+         "description":"random",
+         "condition":"random",
+         "company_id":0,
+         "category_id":0,
+         "ends_at":5,
+         "published_at":0,
+         "location":"random",
+         "house":"random",
+         "placement":"random",
+         "transport_price":"random",
+         "transport_info":"random",
          "images":[
             {
-               "thumb":"https://d3c67tt2e11gmk.cloudfront.net/uploads/thumb_item_97691_afb10634e6.JPG",
-               "mini":"https://d3c67tt2e11gmk.cloudfront.net/uploads/mini_item_97691_afb10634e6.JPG",
-               "hd":"https://d3c67tt2e11gmk.cloudfront.net/uploads/hd_item_97691_afb10634e6.JPG"
-            },
-            {
-               "thumb":"https://d3c67tt2e11gmk.cloudfront.net/uploads/thumb_item_97691_26a8d346c2.JPG",
-               "mini":"https://d3c67tt2e11gmk.cloudfront.net/uploads/mini_item_97691_26a8d346c2.JPG",
-               "hd":"https://d3c67tt2e11gmk.cloudfront.net/uploads/hd_item_97691_26a8d346c2.JPG"
+               "thumb":"random.JPG",
+               "mini":"image5.JPG",
+               "hd":"random.JPG"
             }
          ],
          "bids":[
             {
                "bidder":1,
-               "color":"#2CC9C9",
-               "amount":300,
+               "color":"#000000",
+               "amount":0,
                "your_bid":false,
                "reserve_met":true,
-               "timestamp":1381589318
+               "timestamp":5
             }
          ]
       },
       {
-         "id":99008,
+         "id":6,
          "reserve_met":true,
-         "estimate":2000,
-         "title":"KANDELABRAR, 1 par, Skultuna, Nr. 23, 1900-talets f\u00f6rsta h\u00e4lft.",
-         "description":"Kandelabrar, 1 par, 1900-tal\r\nH\u00f6jd 28 cm.",
-         "condition":"Inga anm\u00e4rkningar.",
-         "company_id":6,
-         "category_id":4,
-         "ends_at":1381770540,
-         "published_at":1380816663,
-         "location":"\u00c4ngelholm",
-         "house":"Auktionsverket Engelholm",
-         "placement":"Sal 1",
-         "transport_price":"200\u00a0SEK",
-         "transport_info":"H\u00e4mtas p\u00e5 plats eller transporteras till G\u00e4vle/\u00c4lvkarleby, G\u00f6teborg, Helsingfors, Link\u00f6ping, Lule\u00e5, Malm\u00f6, Oskarshamn, Stockholm och Ume\u00e5.",
+         "estimate":0,
+         "title":"title6",
+         "description":"random",
+         "condition":"random",
+         "company_id":0,
+         "category_id":0,
+         "ends_at":6,
+         "published_at":0,
+         "location":"random",
+         "house":"random",
+         "placement":"random",
+         "transport_price":"random",
+         "transport_info":"random",
          "images":[
             {
-               "thumb":"https://d3c67tt2e11gmk.cloudfront.net/uploads/thumb_item_99008_f9b53590c5.JPG",
-               "mini":"https://d3c67tt2e11gmk.cloudfront.net/uploads/mini_item_99008_f9b53590c5.JPG",
-               "hd":"https://d3c67tt2e11gmk.cloudfront.net/uploads/hd_item_99008_f9b53590c5.JPG"
+               "thumb":"random.JPG",
+               "mini":"image6.JPG",
+               "hd":"random.JPG"
             }
          ],
          "bids":[
             {
-               "bidder":8,
-               "color":"#2C7AC9",
-               "amount":3600,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1381589221
-            },
-            {
-               "bidder":5,
-               "color":"#C97A2C",
-               "amount":3500,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1381589221
-            },
-            {
-               "bidder":5,
-               "color":"#C97A2C",
-               "amount":2800,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1381310696
-            },
-            {
-               "bidder":7,
-               "color":"#DA5858",
-               "amount":2600,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1381310696
-            },
-            {
-               "bidder":5,
-               "color":"#C97A2C",
-               "amount":2400,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1380991078
-            },
-            {
-               "bidder":6,
-               "color":"#2CC97A",
-               "amount":2200,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1380991078
-            },
-            {
-               "bidder":5,
-               "color":"#C97A2C",
-               "amount":1600,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1380984545
-            },
-            {
-               "bidder":4,
-               "color":"#7A2CC9",
-               "amount":1500,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1380984545
-            },
-            {
-               "bidder":4,
-               "color":"#7A2CC9",
-               "amount":1400,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1380971944
-            },
-            {
-               "bidder":2,
-               "color":"#C9C92C",
-               "amount":1350,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1380971944
-            },
-            {
-               "bidder":2,
-               "color":"#C9C92C",
-               "amount":1300,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1380917555
-            },
-            {
-               "bidder":3,
-               "color":"#E58A8A",
-               "amount":1200,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1380835556
-            },
-            {
-               "bidder":2,
-               "color":"#C9C92C",
-               "amount":1100,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1380835547
-            },
-            {
-               "bidder":3,
-               "color":"#E58A8A",
-               "amount":1100,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1380835547
-            },
-            {
-               "bidder":2,
-               "color":"#C9C92C",
-               "amount":1000,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1380835538
-            },
-            {
-               "bidder":3,
-               "color":"#E58A8A",
-               "amount":950,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1380835538
-            },
-            {
-               "bidder":2,
-               "color":"#C9C92C",
-               "amount":900,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1380830263
-            },
-            {
-               "bidder":2,
-               "color":"#C9C92C",
-               "amount":350,
-               "your_bid":false,
-               "reserve_met":false,
-               "timestamp":1380830056
-            },
-            {
                "bidder":1,
-               "color":"#2CC9C9",
-               "amount":300,
+               "color":"#000000",
+               "amount":0,
                "your_bid":false,
-               "reserve_met":false,
-               "timestamp":1380819870
+               "reserve_met":true,
+               "timestamp":6
             }
          ]
       },
       {
-         "id":100053,
+         "id":7,
          "reserve_met":true,
-         "estimate":3000,
-         "title":"SOFFA, Chesterfield-stil, 1900-talets slut.",
-         "description":"Kl\u00e4dd i brunt l\u00e4der. L\u00e4ngd 200 cm.",
-         "condition":"Bruksslitage.",
-         "company_id":10,
-         "category_id":20,
-         "ends_at":1382116260,
-         "published_at":1381336029,
-         "location":"G\u00f6teborg",
-         "house":"G\u00f6teborgs Auktionsverk",
-         "placement":"G4",
-         "transport_price":"800\u00a0SEK",
-         "transport_info":"H\u00e4mtas p\u00e5 plats eller transporteras till G\u00e4vle/\u00c4lvkarleby, Helsingfors, Link\u00f6ping, Lule\u00e5, Malm\u00f6, Oskarshamn, Stockholm, Ume\u00e5 och \u00c4ngelholm.",
+         "estimate":0,
+         "title":"title7",
+         "description":"random",
+         "condition":"random",
+         "company_id":0,
+         "category_id":0,
+         "ends_at":7,
+         "published_at":0,
+         "location":"random",
+         "house":"random",
+         "placement":"random",
+         "transport_price":"random",
+         "transport_info":"random",
          "images":[
             {
-               "thumb":"https://d3c67tt2e11gmk.cloudfront.net/uploads/thumb_item_100053_194c023eb6.JPG",
-               "mini":"https://d3c67tt2e11gmk.cloudfront.net/uploads/mini_item_100053_194c023eb6.JPG",
-               "hd":"https://d3c67tt2e11gmk.cloudfront.net/uploads/hd_item_100053_194c023eb6.JPG"
-            },
-            {
-               "thumb":"https://d3c67tt2e11gmk.cloudfront.net/uploads/thumb_item_100053_0a716a69a0.JPG",
-               "mini":"https://d3c67tt2e11gmk.cloudfront.net/uploads/mini_item_100053_0a716a69a0.JPG",
-               "hd":"https://d3c67tt2e11gmk.cloudfront.net/uploads/hd_item_100053_0a716a69a0.JPG"
+               "thumb":"random.JPG",
+               "mini":"image7.JPG",
+               "hd":"random.JPG"
             }
          ],
          "bids":[
             {
-               "bidder":4,
-               "color":"#7A2CC9",
-               "amount":2200,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1381589176
-            },
-            {
-               "bidder":2,
-               "color":"#C9C92C",
-               "amount":2000,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1381589152
-            },
-            {
-               "bidder":4,
-               "color":"#7A2CC9",
-               "amount":2000,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1381589152
-            },
-            {
-               "bidder":2,
-               "color":"#C9C92C",
-               "amount":1900,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1381589134
-            },
-            {
-               "bidder":4,
-               "color":"#7A2CC9",
-               "amount":1800,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1381589134
-            },
-            {
-               "bidder":2,
-               "color":"#C9C92C",
-               "amount":1700,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1381471126
-            },
-            {
-               "bidder":3,
-               "color":"#E58A8A",
-               "amount":1600,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1381471126
-            },
-            {
-               "bidder":2,
-               "color":"#C9C92C",
-               "amount":1500,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1381429854
-            },
-            {
-               "bidder":2,
-               "color":"#C9C92C",
-               "amount":1300,
-               "your_bid":false,
-               "reserve_met":false,
-               "timestamp":1381429830
-            },
-            {
                "bidder":1,
-               "color":"#2CC9C9",
-               "amount":300,
+               "color":"#000000",
+               "amount":0,
                "your_bid":false,
-               "reserve_met":false,
-               "timestamp":1381415359
+               "reserve_met":true,
+               "timestamp":7
             }
          ]
       },
       {
-         "id":97765,
+         "id":8,
          "reserve_met":true,
-         "estimate":1200,
-         "title":"BORDSARMATURER, 3 st, gr\u00f6ntonad glasmassa, Bergboms.",
-         "description":"H\u00f6jd 38 cm.",
-         "condition":"Bruksslitage.",
-         "company_id":10,
-         "category_id":5,
-         "ends_at":1381665600,
-         "published_at":1380714372,
-         "location":"G\u00f6teborg",
-         "house":"G\u00f6teborgs Auktionsverk",
-         "placement":"ny hylla",
-         "transport_price":"200\u00a0SEK",
-         "transport_info":"H\u00e4mtas p\u00e5 plats eller transporteras till G\u00e4vle/\u00c4lvkarleby, Helsingfors, Link\u00f6ping, Lule\u00e5, Malm\u00f6, Oskarshamn, Stockholm, Ume\u00e5 och \u00c4ngelholm.",
+         "estimate":0,
+         "title":"title8",
+         "description":"random",
+         "condition":"random",
+         "company_id":0,
+         "category_id":0,
+         "ends_at":8,
+         "published_at":0,
+         "location":"random",
+         "house":"random",
+         "placement":"random",
+         "transport_price":"random",
+         "transport_info":"random",
          "images":[
             {
-               "thumb":"https://d3c67tt2e11gmk.cloudfront.net/uploads/thumb_item_97765_157d9078de.JPG",
-               "mini":"https://d3c67tt2e11gmk.cloudfront.net/uploads/mini_item_97765_157d9078de.JPG",
-               "hd":"https://d3c67tt2e11gmk.cloudfront.net/uploads/hd_item_97765_157d9078de.JPG"
+               "thumb":"random.JPG",
+               "mini":"image8.JPG",
+               "hd":"random.JPG"
             }
          ],
          "bids":[
             {
-               "bidder":3,
-               "color":"#E58A8A",
-               "amount":400,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1381589158
-            },
-            {
-               "bidder":2,
-               "color":"#C9C92C",
-               "amount":350,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1381585947
-            },
-            {
                "bidder":1,
-               "color":"#2CC9C9",
-               "amount":300,
+               "color":"#000000",
+               "amount":0,
                "your_bid":false,
                "reserve_met":true,
-               "timestamp":1381444454
+               "timestamp":8
             }
          ]
       },
       {
-         "id":97233,
+         "id":9,
          "reserve_met":true,
-         "estimate":3000,
-         "title":"TAKLAMPA, 3 ljusarmar, Josef Frank, Svenskt Tenn, mod.nr. 2444.",
-         "description":"H\u00f6jd ca 52 cm.",
-         "condition":"Slitage.",
-         "company_id":1,
-         "category_id":3,
-         "ends_at":1381610040,
-         "published_at":1380632802,
-         "location":"Stockholm",
-         "house":"Kolonn",
-         "placement":"H15",
-         "transport_price":"500\u00a0SEK",
-         "transport_info":"H\u00e4mtas p\u00e5 plats eller transporteras till G\u00e4vle/\u00c4lvkarleby, G\u00f6teborg, Helsingfors, Link\u00f6ping, Lule\u00e5, Malm\u00f6, Oskarshamn, Ume\u00e5 och \u00c4ngelholm.",
+         "estimate":0,
+         "title":"title9",
+         "description":"random",
+         "condition":"random",
+         "company_id":0,
+         "category_id":0,
+         "ends_at":9,
+         "published_at":0,
+         "location":"random",
+         "house":"random",
+         "placement":"random",
+         "transport_price":"random",
+         "transport_info":"random",
          "images":[
             {
-               "thumb":"https://d3c67tt2e11gmk.cloudfront.net/uploads/thumb_item_97233_0a709de25a.JPG",
-               "mini":"https://d3c67tt2e11gmk.cloudfront.net/uploads/mini_item_97233_0a709de25a.JPG",
-               "hd":"https://d3c67tt2e11gmk.cloudfront.net/uploads/hd_item_97233_0a709de25a.JPG"
-            },
-            {
-               "thumb":"https://d3c67tt2e11gmk.cloudfront.net/uploads/thumb_item_97233_ac3451677d.JPG",
-               "mini":"https://d3c67tt2e11gmk.cloudfront.net/uploads/mini_item_97233_ac3451677d.JPG",
-               "hd":"https://d3c67tt2e11gmk.cloudfront.net/uploads/hd_item_97233_ac3451677d.JPG"
-            }
-         ],
-         "bids":[
-            {
-               "bidder":4,
-               "color":"#7A2CC9",
-               "amount":3250,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1381589084
-            },
-            {
-               "bidder":5,
-               "color":"#C97A2C",
-               "amount":3050,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1381574941
-            },
-            {
-               "bidder":4,
-               "color":"#7A2CC9",
-               "amount":3000,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1381574941
-            },
-            {
-               "bidder":4,
-               "color":"#7A2CC9",
-               "amount":2850,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1381501463
-            },
-            {
-               "bidder":3,
-               "color":"#E58A8A",
-               "amount":2650,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1381501463
-            },
-            {
-               "bidder":4,
-               "color":"#7A2CC9",
-               "amount":2450,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1381501027
-            },
-            {
-               "bidder":3,
-               "color":"#E58A8A",
-               "amount":2250,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1381501027
-            },
-            {
-               "bidder":3,
-               "color":"#E58A8A",
-               "amount":2000,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1380922936
-            },
-            {
-               "bidder":3,
-               "color":"#E58A8A",
-               "amount":1950,
-               "your_bid":false,
-               "reserve_met":false,
-               "timestamp":1380922925
-            },
-            {
-               "bidder":3,
-               "color":"#E58A8A",
-               "amount":1850,
-               "your_bid":false,
-               "reserve_met":false,
-               "timestamp":1380922913
-            },
-            {
-               "bidder":2,
-               "color":"#C9C92C",
-               "amount":1000,
-               "your_bid":false,
-               "reserve_met":false,
-               "timestamp":1380663100
-            },
-            {
-               "bidder":2,
-               "color":"#C9C92C",
-               "amount":700,
-               "your_bid":false,
-               "reserve_met":false,
-               "timestamp":1380663080
-            },
-            {
-               "bidder":1,
-               "color":"#2CC9C9",
-               "amount":350,
-               "your_bid":false,
-               "reserve_met":false,
-               "timestamp":1380635283
-            },
-            {
-               "bidder":1,
-               "color":"#2CC9C9",
-               "amount":300,
-               "your_bid":false,
-               "reserve_met":false,
-               "timestamp":1380635271
-            }
-         ]
-      },
-      {
-         "id":99647,
-         "reserve_met":true,
-         "estimate":1200,
-         "title":"MATSERVISDELAR, \"Bl\u00e5 Eld\", design Hertha Bengtsson, R\u00f6rstrand.",
-         "description":"djupa tallrikar, assietter samt 2 sk\u00e5lar, 28 delar.",
-         "condition":"bruksslitage samt sm\u00e4rre nagg i en sk\u00e5l.",
-         "company_id":11,
-         "category_id":10,
-         "ends_at":1381860780,
-         "published_at":1380901840,
-         "location":"Helsingborg",
-         "house":"Helsingborgs auktionskammare",
-         "placement":"Hylla 8",
-         "transport_price":"400\u00a0SEK",
-         "transport_info":"H\u00e4mtas p\u00e5 plats eller transporteras till G\u00e4vle/\u00c4lvkarleby, G\u00f6teborg, Helsingfors, Link\u00f6ping, Lule\u00e5, Malm\u00f6, Oskarshamn, Stockholm, Ume\u00e5 och \u00c4ngelholm.",
-         "images":[
-            {
-               "thumb":"https://d3c67tt2e11gmk.cloudfront.net/uploads/thumb_item_99647_2f9df750a4.JPG",
-               "mini":"https://d3c67tt2e11gmk.cloudfront.net/uploads/mini_item_99647_2f9df750a4.JPG",
-               "hd":"https://d3c67tt2e11gmk.cloudfront.net/uploads/hd_item_99647_2f9df750a4.JPG"
+               "thumb":"random.JPG",
+               "mini":"image9.JPG",
+               "hd":"random.JPG"
             }
          ],
          "bids":[
             {
                "bidder":1,
-               "color":"#2CC9C9",
-               "amount":2900,
+               "color":"#000000",
+               "amount":0,
                "your_bid":false,
                "reserve_met":true,
-               "timestamp":1381589023
-            },
-            {
-               "bidder":5,
-               "color":"#C97A2C",
-               "amount":2700,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1381588985
-            },
-            {
-               "bidder":1,
-               "color":"#2CC9C9",
-               "amount":2500,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1381588985
-            },
-            {
-               "bidder":5,
-               "color":"#C97A2C",
-               "amount":2200,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1381588944
-            },
-            {
-               "bidder":1,
-               "color":"#2CC9C9",
-               "amount":2000,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1381588944
-            },
-            {
-               "bidder":5,
-               "color":"#C97A2C",
-               "amount":1900,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1381588904
-            },
-            {
-               "bidder":1,
-               "color":"#2CC9C9",
-               "amount":1800,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1381588904
-            },
-            {
-               "bidder":5,
-               "color":"#C97A2C",
-               "amount":1600,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1381588895
-            },
-            {
-               "bidder":1,
-               "color":"#2CC9C9",
-               "amount":1500,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1381588895
-            },
-            {
-               "bidder":5,
-               "color":"#C97A2C",
-               "amount":1100,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1381573666
-            },
-            {
-               "bidder":1,
-               "color":"#2CC9C9",
-               "amount":1000,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1381573666
-            },
-            {
-               "bidder":1,
-               "color":"#2CC9C9",
-               "amount":900,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1381524209
-            },
-            {
-               "bidder":4,
-               "color":"#7A2CC9",
-               "amount":850,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1381518291
-            },
-            {
-               "bidder":1,
-               "color":"#2CC9C9",
-               "amount":800,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1381387221
-            },
-            {
-               "bidder":3,
-               "color":"#E58A8A",
-               "amount":800,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1381387221
-            },
-            {
-               "bidder":1,
-               "color":"#2CC9C9",
-               "amount":750,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1381387215
-            },
-            {
-               "bidder":3,
-               "color":"#E58A8A",
-               "amount":700,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1381387215
-            },
-            {
-               "bidder":1,
-               "color":"#2CC9C9",
-               "amount":650,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1381387211
-            },
-            {
-               "bidder":3,
-               "color":"#E58A8A",
-               "amount":600,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1381387210
-            },
-            {
-               "bidder":1,
-               "color":"#2CC9C9",
-               "amount":550,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1381356388
-            },
-            {
-               "bidder":2,
-               "color":"#C9C92C",
-               "amount":500,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1381356373
-            },
-            {
-               "bidder":1,
-               "color":"#2CC9C9",
-               "amount":500,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1381356373
-            },
-            {
-               "bidder":2,
-               "color":"#C9C92C",
-               "amount":350,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1381347054
-            },
-            {
-               "bidder":1,
-               "color":"#2CC9C9",
-               "amount":300,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1381134541
-            }
-         ]
-      },
-      {
-         "id":99269,
-         "reserve_met":true,
-         "estimate":3000,
-         "title":"KANDELABRAR, 1 par, Oscarianska, 18-1900-tal.",
-         "description":"Gjuten m\u00e4ssing, svart marmor, h\u00f6jd 59 cm\r\nFyra ljusarmar med prismor.",
-         "condition":"Nagg fot.",
-         "company_id":6,
-         "category_id":4,
-         "ends_at":1381680060,
-         "published_at":1380742323,
-         "location":"\u00c4ngelholm",
-         "house":"Auktionsverket Engelholm",
-         "placement":"Sal 1",
-         "transport_price":"400\u00a0SEK",
-         "transport_info":"H\u00e4mtas p\u00e5 plats eller transporteras till G\u00e4vle/\u00c4lvkarleby, G\u00f6teborg, Helsingfors, Link\u00f6ping, Lule\u00e5, Malm\u00f6, Oskarshamn, Stockholm och Ume\u00e5.",
-         "images":[
-            {
-               "thumb":"https://d3c67tt2e11gmk.cloudfront.net/uploads/thumb_item_99269_eb6b19183c.JPG",
-               "mini":"https://d3c67tt2e11gmk.cloudfront.net/uploads/mini_item_99269_eb6b19183c.JPG",
-               "hd":"https://d3c67tt2e11gmk.cloudfront.net/uploads/hd_item_99269_eb6b19183c.JPG"
-            }
-         ],
-         "bids":[
-            {
-               "bidder":5,
-               "color":"#C97A2C",
-               "amount":2600,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1381588739
-            },
-            {
-               "bidder":2,
-               "color":"#C9C92C",
-               "amount":2400,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1381247199
-            },
-            {
-               "bidder":4,
-               "color":"#7A2CC9",
-               "amount":2200,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1381172738
-            },
-            {
-               "bidder":3,
-               "color":"#E58A8A",
-               "amount":2000,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1381172724
-            },
-            {
-               "bidder":4,
-               "color":"#7A2CC9",
-               "amount":2000,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1381172724
-            },
-            {
-               "bidder":3,
-               "color":"#E58A8A",
-               "amount":1900,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1380923623
-            },
-            {
-               "bidder":3,
-               "color":"#E58A8A",
-               "amount":1800,
-               "your_bid":false,
-               "reserve_met":false,
-               "timestamp":1380923611
-            },
-            {
-               "bidder":3,
-               "color":"#E58A8A",
-               "amount":1700,
-               "your_bid":false,
-               "reserve_met":false,
-               "timestamp":1380923572
-            },
-            {
-               "bidder":3,
-               "color":"#E58A8A",
-               "amount":1600,
-               "your_bid":false,
-               "reserve_met":false,
-               "timestamp":1380923566
-            },
-            {
-               "bidder":3,
-               "color":"#E58A8A",
-               "amount":1500,
-               "your_bid":false,
-               "reserve_met":false,
-               "timestamp":1380923548
-            },
-            {
-               "bidder":2,
-               "color":"#C9C92C",
-               "amount":1200,
-               "your_bid":false,
-               "reserve_met":false,
-               "timestamp":1380835422
-            },
-            {
-               "bidder":2,
-               "color":"#C9C92C",
-               "amount":1100,
-               "your_bid":false,
-               "reserve_met":false,
-               "timestamp":1380835413
-            },
-            {
-               "bidder":1,
-               "color":"#2CC9C9",
-               "amount":1000,
-               "your_bid":false,
-               "reserve_met":false,
-               "timestamp":1380806402
-            },
-            {
-               "bidder":1,
-               "color":"#2CC9C9",
-               "amount":800,
-               "your_bid":false,
-               "reserve_met":false,
-               "timestamp":1380806318
-            }
-         ]
-      },
-      {
-         "id":100044,
-         "reserve_met":true,
-         "estimate":1500,
-         "title":"WILGOT OLSSON. Olja p\u00e5 duk, signerad.",
-         "description":"Stilleben med krukv\u00e4xt. 40 x 31 cm.",
-         "condition":"Inga anm\u00e4rkningar.",
-         "company_id":10,
-         "category_id":28,
-         "ends_at":1382209920,
-         "published_at":1381402273,
-         "location":"G\u00f6teborg",
-         "house":"G\u00f6teborgs Auktionsverk",
-         "placement":"Tavelvagn 3",
-         "transport_price":"200\u00a0SEK",
-         "transport_info":"H\u00e4mtas p\u00e5 plats eller transporteras till G\u00e4vle/\u00c4lvkarleby, Helsingfors, Link\u00f6ping, Lule\u00e5, Malm\u00f6, Oskarshamn, Stockholm, Ume\u00e5 och \u00c4ngelholm.",
-         "images":[
-            {
-               "thumb":"https://d3c67tt2e11gmk.cloudfront.net/uploads/thumb_item_100044_91cea579de.JPG",
-               "mini":"https://d3c67tt2e11gmk.cloudfront.net/uploads/mini_item_100044_91cea579de.JPG",
-               "hd":"https://d3c67tt2e11gmk.cloudfront.net/uploads/hd_item_100044_91cea579de.JPG"
-            }
-         ],
-         "bids":[
-            {
-               "bidder":1,
-               "color":"#2CC9C9",
-               "amount":300,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1381588701
-            }
-         ]
-      },
-      {
-         "id":94984,
-         "reserve_met":true,
-         "estimate":2500,
-         "title":"TAKAMPEL, med bl\u00e5 glassk\u00e5l, gustaviansk stil, 18/1900-tal.",
-         "description":"H\u00f6jd ca 75 cm.",
-         "condition":"Slitage.",
-         "company_id":1,
-         "category_id":3,
-         "ends_at":1381599240,
-         "published_at":1380609795,
-         "location":"Stockholm",
-         "house":"Kolonn",
-         "placement":"st\u00e4llningar",
-         "transport_price":"500\u00a0SEK",
-         "transport_info":"H\u00e4mtas p\u00e5 plats eller transporteras till G\u00e4vle/\u00c4lvkarleby, G\u00f6teborg, Helsingfors, Link\u00f6ping, Lule\u00e5, Malm\u00f6, Oskarshamn, Ume\u00e5 och \u00c4ngelholm.",
-         "images":[
-            {
-               "thumb":"https://d3c67tt2e11gmk.cloudfront.net/uploads/thumb_item_94984_a8dbecb663.JPG",
-               "mini":"https://d3c67tt2e11gmk.cloudfront.net/uploads/mini_item_94984_a8dbecb663.JPG",
-               "hd":"https://d3c67tt2e11gmk.cloudfront.net/uploads/hd_item_94984_a8dbecb663.JPG"
-            }
-         ],
-         "bids":[
-            {
-               "bidder":3,
-               "color":"#E58A8A",
-               "amount":900,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1381588694
-            },
-            {
-               "bidder":2,
-               "color":"#C9C92C",
-               "amount":850,
-               "your_bid":false,
-               "reserve_met":false,
-               "timestamp":1380740609
-            },
-            {
-               "bidder":1,
-               "color":"#2CC9C9",
-               "amount":300,
-               "your_bid":false,
-               "reserve_met":false,
-               "timestamp":1380737554
-            }
-         ]
-      },
-      {
-         "id":88858,
-         "reserve_met":true,
-         "estimate":1000,
-         "title":"BLOMSTERKORG, med glasinsatts, pl\u00e4ter , 1900-tal.",
-         "description":"H\u00f6jd 37 cm\r\nL\u00e4ngd 28 cm.",
-         "condition":"Inga anm\u00e4rkningar.",
-         "company_id":6,
-         "category_id":38,
-         "ends_at":1381658640,
-         "published_at":1380742321,
-         "location":"\u00c4ngelholm",
-         "house":"Auktionsverket Engelholm",
-         "placement":"Sal 1",
-         "transport_price":"200\u00a0SEK",
-         "transport_info":"H\u00e4mtas p\u00e5 plats eller transporteras till G\u00e4vle/\u00c4lvkarleby, G\u00f6teborg, Helsingfors, Link\u00f6ping, Lule\u00e5, Malm\u00f6, Oskarshamn, Stockholm och Ume\u00e5.",
-         "images":[
-            {
-               "thumb":"https://d3c67tt2e11gmk.cloudfront.net/uploads/thumb_item_88858_3f0d219d1a.JPG",
-               "mini":"https://d3c67tt2e11gmk.cloudfront.net/uploads/mini_item_88858_3f0d219d1a.JPG",
-               "hd":"https://d3c67tt2e11gmk.cloudfront.net/uploads/hd_item_88858_3f0d219d1a.JPG"
-            },
-            {
-               "thumb":"https://d3c67tt2e11gmk.cloudfront.net/uploads/thumb_item_88858_acc75fea58.JPG",
-               "mini":"https://d3c67tt2e11gmk.cloudfront.net/uploads/mini_item_88858_acc75fea58.JPG",
-               "hd":"https://d3c67tt2e11gmk.cloudfront.net/uploads/hd_item_88858_acc75fea58.JPG"
-            },
-            {
-               "thumb":"https://d3c67tt2e11gmk.cloudfront.net/uploads/thumb_item_88858_abd10c8368.JPG",
-               "mini":"https://d3c67tt2e11gmk.cloudfront.net/uploads/mini_item_88858_abd10c8368.JPG",
-               "hd":"https://d3c67tt2e11gmk.cloudfront.net/uploads/hd_item_88858_abd10c8368.JPG"
-            },
-            {
-               "thumb":"https://d3c67tt2e11gmk.cloudfront.net/uploads/thumb_item_88858_5275bb408d.JPG",
-               "mini":"https://d3c67tt2e11gmk.cloudfront.net/uploads/mini_item_88858_5275bb408d.JPG",
-               "hd":"https://d3c67tt2e11gmk.cloudfront.net/uploads/hd_item_88858_5275bb408d.JPG"
-            }
-         ],
-         "bids":[
-            {
-               "bidder":1,
-               "color":"#2CC9C9",
-               "amount":800,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1381588691
-            },
-            {
-               "bidder":2,
-               "color":"#C9C92C",
-               "amount":750,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1381588691
-            },
-            {
-               "bidder":2,
-               "color":"#C9C92C",
-               "amount":700,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1381588683
-            },
-            {
-               "bidder":1,
-               "color":"#2CC9C9",
-               "amount":650,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1381588683
-            },
-            {
-               "bidder":2,
-               "color":"#C9C92C",
-               "amount":600,
-               "your_bid":false,
-               "reserve_met":true,
-               "timestamp":1381588526
-            },
-            {
-               "bidder":1,
-               "color":"#2CC9C9",
-               "amount":500,
-               "your_bid":false,
-               "reserve_met":false,
-               "timestamp":1381174648
-            },
-            {
-               "bidder":1,
-               "color":"#2CC9C9",
-               "amount":300,
-               "your_bid":false,
-               "reserve_met":false,
-               "timestamp":1381174634
-            }
-         ]
-      },
-      {
-         "id":100155,
-         "reserve_met":false,
-         "estimate":1000,
-         "title":"SOPPSLEV, silver, Georg Henrik \u00c5kerberg, V\u00e4xj\u00f6 1851.",
-         "description":"Sv\u00e4rtad tr\u00e4skaft, l\u00e4ngd 41 cm.",
-         "condition":"Bruksslitage.",
-         "company_id":10,
-         "category_id":39,
-         "ends_at":1382285220,
-         "published_at":1381506103,
-         "location":"G\u00f6teborg",
-         "house":"G\u00f6teborgs Auktionsverk",
-         "placement":"V05",
-         "transport_price":"200\u00a0SEK",
-         "transport_info":"H\u00e4mtas p\u00e5 plats eller transporteras till G\u00e4vle/\u00c4lvkarleby, Helsingfors, Link\u00f6ping, Lule\u00e5, Malm\u00f6, Oskarshamn, Stockholm, Ume\u00e5 och \u00c4ngelholm.",
-         "images":[
-            {
-               "thumb":"https://d3c67tt2e11gmk.cloudfront.net/uploads/thumb_item_100155_253e90cf7c.JPG",
-               "mini":"https://d3c67tt2e11gmk.cloudfront.net/uploads/mini_item_100155_253e90cf7c.JPG",
-               "hd":"https://d3c67tt2e11gmk.cloudfront.net/uploads/hd_item_100155_253e90cf7c.JPG"
-            },
-            {
-               "thumb":"https://d3c67tt2e11gmk.cloudfront.net/uploads/thumb_item_100155_734f036a64.JPG",
-               "mini":"https://d3c67tt2e11gmk.cloudfront.net/uploads/mini_item_100155_734f036a64.JPG",
-               "hd":"https://d3c67tt2e11gmk.cloudfront.net/uploads/hd_item_100155_734f036a64.JPG"
-            }
-         ],
-         "bids":[
-            {
-               "bidder":2,
-               "color":"#C9C92C",
-               "amount":400,
-               "your_bid":false,
-               "reserve_met":false,
-               "timestamp":1381588670
-            },
-            {
-               "bidder":1,
-               "color":"#2CC9C9",
-               "amount":300,
-               "your_bid":false,
-               "reserve_met":false,
-               "timestamp":1381560771
-            }
-         ]
-      },
-      {
-         "id":97821,
-         "reserve_met":false,
-         "estimate":4500,
-         "title":"BORD MED L\u00c5DA, Empire, 1800-tal.",
-         "description":"Med en l\u00e5ga. Rik intarsiadekor. L\u00e4ngd ca 63,5 bredd 43 h\u00f6jd 77 cm.",
-         "condition":"Slitage, st\u00e4llvis blekt, sprickor, dekordelar saknas.",
-         "company_id":1,
-         "category_id":19,
-         "ends_at":1381662480,
-         "published_at":1380717349,
-         "location":"Stockholm",
-         "house":"Kolonn",
-         "placement":"A Special vid kunddisk",
-         "transport_price":"400\u00a0SEK",
-         "transport_info":"H\u00e4mtas p\u00e5 plats eller transporteras till G\u00e4vle/\u00c4lvkarleby, G\u00f6teborg, Helsingfors, Link\u00f6ping, Lule\u00e5, Malm\u00f6, Oskarshamn, Ume\u00e5 och \u00c4ngelholm.",
-         "images":[
-            {
-               "thumb":"https://d3c67tt2e11gmk.cloudfront.net/uploads/thumb_item_97821_57292b9521.JPG",
-               "mini":"https://d3c67tt2e11gmk.cloudfront.net/uploads/mini_item_97821_57292b9521.JPG",
-               "hd":"https://d3c67tt2e11gmk.cloudfront.net/uploads/hd_item_97821_57292b9521.JPG"
-            },
-            {
-               "thumb":"https://d3c67tt2e11gmk.cloudfront.net/uploads/thumb_item_97821_9cc2af1692.JPG",
-               "mini":"https://d3c67tt2e11gmk.cloudfront.net/uploads/mini_item_97821_9cc2af1692.JPG",
-               "hd":"https://d3c67tt2e11gmk.cloudfront.net/uploads/hd_item_97821_9cc2af1692.JPG"
-            },
-            {
-               "thumb":"https://d3c67tt2e11gmk.cloudfront.net/uploads/thumb_item_97821_3540cb4ec3.JPG",
-               "mini":"https://d3c67tt2e11gmk.cloudfront.net/uploads/mini_item_97821_3540cb4ec3.JPG",
-               "hd":"https://d3c67tt2e11gmk.cloudfront.net/uploads/hd_item_97821_3540cb4ec3.JPG"
-            },
-            {
-               "thumb":"https://d3c67tt2e11gmk.cloudfront.net/uploads/thumb_item_97821_ef6601673b.JPG",
-               "mini":"https://d3c67tt2e11gmk.cloudfront.net/uploads/mini_item_97821_ef6601673b.JPG",
-               "hd":"https://d3c67tt2e11gmk.cloudfront.net/uploads/hd_item_97821_ef6601673b.JPG"
-            }
-         ],
-         "bids":[
-            {
-               "bidder":3,
-               "color":"#E58A8A",
-               "amount":2500,
-               "your_bid":false,
-               "reserve_met":false,
-               "timestamp":1381588645
-            },
-            {
-               "bidder":2,
-               "color":"#C9C92C",
-               "amount":2000,
-               "your_bid":false,
-               "reserve_met":false,
-               "timestamp":1381425144
-            },
-            {
-               "bidder":2,
-               "color":"#C9C92C",
-               "amount":1500,
-               "your_bid":false,
-               "reserve_met":false,
-               "timestamp":1381425103
-            },
-            {
-               "bidder":2,
-               "color":"#C9C92C",
-               "amount":1200,
-               "your_bid":false,
-               "reserve_met":false,
-               "timestamp":1381425081
-            },
-            {
-               "bidder":1,
-               "color":"#2CC9C9",
-               "amount":550,
-               "your_bid":false,
-               "reserve_met":false,
-               "timestamp":1380740371
-            }
-         ]
-      },
-      {
-         "id":100152,
-         "reserve_met":false,
-         "estimate":1000,
-         "title":"SOPPSLEV, silver, G\u00f6teborg 1882.",
-         "description":"Sv\u00e4rtat tr\u00e4skaft, l\u00e4ngd 46 cm.",
-         "condition":"Bruksslitage.",
-         "company_id":10,
-         "category_id":39,
-         "ends_at":1382273820,
-         "published_at":1381506103,
-         "location":"G\u00f6teborg",
-         "house":"G\u00f6teborgs Auktionsverk",
-         "placement":"V05",
-         "transport_price":"200\u00a0SEK",
-         "transport_info":"H\u00e4mtas p\u00e5 plats eller transporteras till G\u00e4vle/\u00c4lvkarleby, Helsingfors, Link\u00f6ping, Lule\u00e5, Malm\u00f6, Oskarshamn, Stockholm, Ume\u00e5 och \u00c4ngelholm.",
-         "images":[
-            {
-               "thumb":"https://d3c67tt2e11gmk.cloudfront.net/uploads/thumb_item_100152_7724943dd7.JPG",
-               "mini":"https://d3c67tt2e11gmk.cloudfront.net/uploads/mini_item_100152_7724943dd7.JPG",
-               "hd":"https://d3c67tt2e11gmk.cloudfront.net/uploads/hd_item_100152_7724943dd7.JPG"
-            },
-            {
-               "thumb":"https://d3c67tt2e11gmk.cloudfront.net/uploads/thumb_item_100152_a6d4f165cf.JPG",
-               "mini":"https://d3c67tt2e11gmk.cloudfront.net/uploads/mini_item_100152_a6d4f165cf.JPG",
-               "hd":"https://d3c67tt2e11gmk.cloudfront.net/uploads/hd_item_100152_a6d4f165cf.JPG"
-            }
-         ],
-         "bids":[
-            {
-               "bidder":1,
-               "color":"#2CC9C9",
-               "amount":300,
-               "your_bid":false,
-               "reserve_met":false,
-               "timestamp":1381588625
-            }
-         ]
-      },
-      {
-         "id":95482,
-         "reserve_met":false,
-         "estimate":1800,
-         "title":"PIETRO DALLA-SANTA. Akvarell, signerad.",
-         "description":"\"Sm\u00e5b\u00e5tshamnen V\u00e4stervik en marknadsdag\", 50 x 34 cm.",
-         "condition":"ej examinerad ur ram.",
-         "company_id":10,
-         "category_id":28,
-         "ends_at":1381935420,
-         "published_at":1381247531,
-         "location":"G\u00f6teborg",
-         "house":"G\u00f6teborgs Auktionsverk",
-         "placement":"Tavelvagn1",
-         "transport_price":"400\u00a0SEK",
-         "transport_info":"H\u00e4mtas p\u00e5 plats eller transporteras till G\u00e4vle/\u00c4lvkarleby, Helsingfors, Link\u00f6ping, Lule\u00e5, Malm\u00f6, Oskarshamn, Stockholm, Ume\u00e5 och \u00c4ngelholm.",
-         "images":[
-            {
-               "thumb":"https://d3c67tt2e11gmk.cloudfront.net/uploads/thumb_item_95482_7c435efec2.JPG",
-               "mini":"https://d3c67tt2e11gmk.cloudfront.net/uploads/mini_item_95482_7c435efec2.JPG",
-               "hd":"https://d3c67tt2e11gmk.cloudfront.net/uploads/hd_item_95482_7c435efec2.JPG"
-            }
-         ],
-         "bids":[
-            {
-               "bidder":1,
-               "color":"#2CC9C9",
-               "amount":400,
-               "your_bid":false,
-               "reserve_met":false,
-               "timestamp":1381588578
-            },
-            {
-               "bidder":1,
-               "color":"#2CC9C9",
-               "amount":350,
-               "your_bid":false,
-               "reserve_met":false,
-               "timestamp":1381588519
-            },
-            {
-               "bidder":1,
-               "color":"#2CC9C9",
-               "amount":300,
-               "your_bid":false,
-               "reserve_met":false,
-               "timestamp":1381588504
-            }
-         ]
-      },
-      {
-         "id":95895,
-         "reserve_met":false,
-         "estimate":2000,
-         "title":"RAGUSKED, silver, 17-1800-tal.",
-         "description":"Stor Ragusked, st\u00e4mplad HPF, l\u00e4ngd 37,5 cm.",
-         "condition":"\u00c5ldersslitage.",
-         "company_id":6,
-         "category_id":39,
-         "ends_at":1381930200,
-         "published_at":1381044451,
-         "location":"\u00c4ngelholm",
-         "house":"Auktionsverket Engelholm",
-         "placement":"Silvermonter",
-         "transport_price":"100\u00a0SEK",
-         "transport_info":"H\u00e4mtas p\u00e5 plats eller transporteras till G\u00e4vle/\u00c4lvkarleby, G\u00f6teborg, Helsingfors, Link\u00f6ping, Lule\u00e5, Malm\u00f6, Oskarshamn, Stockholm och Ume\u00e5.",
-         "images":[
-            {
-               "thumb":"https://d3c67tt2e11gmk.cloudfront.net/uploads/thumb_item_95895_a6567c3163.JPG",
-               "mini":"https://d3c67tt2e11gmk.cloudfront.net/uploads/mini_item_95895_a6567c3163.JPG",
-               "hd":"https://d3c67tt2e11gmk.cloudfront.net/uploads/hd_item_95895_a6567c3163.JPG"
-            },
-            {
-               "thumb":"https://d3c67tt2e11gmk.cloudfront.net/uploads/thumb_item_95895_3f8cce5f45.JPG",
-               "mini":"https://d3c67tt2e11gmk.cloudfront.net/uploads/mini_item_95895_3f8cce5f45.JPG",
-               "hd":"https://d3c67tt2e11gmk.cloudfront.net/uploads/hd_item_95895_3f8cce5f45.JPG"
-            },
-            {
-               "thumb":"https://d3c67tt2e11gmk.cloudfront.net/uploads/thumb_item_95895_0ab8216ae5.JPG",
-               "mini":"https://d3c67tt2e11gmk.cloudfront.net/uploads/mini_item_95895_0ab8216ae5.JPG",
-               "hd":"https://d3c67tt2e11gmk.cloudfront.net/uploads/hd_item_95895_0ab8216ae5.JPG"
-            }
-         ],
-         "bids":[
-            {
-               "bidder":2,
-               "color":"#C9C92C",
-               "amount":800,
-               "your_bid":false,
-               "reserve_met":false,
-               "timestamp":1381588557
-            },
-            {
-               "bidder":1,
-               "color":"#2CC9C9",
-               "amount":500,
-               "your_bid":false,
-               "reserve_met":false,
-               "timestamp":1381092341
+               "timestamp":9
             }
          ]
       }

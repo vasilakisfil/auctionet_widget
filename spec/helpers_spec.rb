@@ -1,5 +1,5 @@
 require 'spec_helper'
-require 'httparty'
+require 'date'
 require 'json'
 require 'rspec'
 
@@ -16,16 +16,19 @@ describe Helpers do
   describe ".parseJSON" do
     context "with valid json" do
       it "returns valid data" do
-        response = HTTParty.get('http://auctionet.com/api/v2/items.json?order=bid_on')
-        json_data = JSON.parse(response.body)
+        app_link = "http://auctionet.com"
+        response = File.read("spec/test_data.json")
+        json_data = JSON.parse(response)
         results = Hash.new
         results = @helper.parse_json_data(json_data)
-        puts results[0]
         for num in 0..8 do
-          expect(results[num][:item_id]).to be_a(Integer)
-          expect(results[num][:title]).to be_a(String)
-          expect(results[num][:image]).to match(/http(s?):\/\/([\w]+\.){1}([\w]+\.?)+/)
-          expect(
+          expect(results[num][:item_id]).to eq(num)
+          expect(results[num][:title]).to eq("title#{num}")
+          expect(results[num][:image]).to eq("image#{num}.JPG")
+          expect(results[num][:link]).to eq("#{app_link}/#{results[num][:item_id]}")
+          expect(results[num][:ends_at]).to eq(Time.at(num))
+          #expect(results[num][:bid_amount]).to equal(num)
+          expect(results[num][:bid_time]).to eq(Time.at(num))
         end
       end
     end
