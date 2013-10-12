@@ -1,7 +1,6 @@
 require 'spec_helper'
 require 'date'
 require 'json'
-require 'rspec'
 
 describe Helpers do
   describe ".parse_json_data" do

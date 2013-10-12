@@ -6,9 +6,10 @@ task :spec do
   puts "Run tests run!"
   ENV['testing'] = 'TRUE'
   ENV['json_link'] = 'spec/test_data.json'
-  `dashing start`
+  `dashing start &`
+  `rspec spec/acceptance_spec.rb`
 end
-RSpec::Core::RakeTask.new(:spec)
+#RSpec::Core::RakeTask.new(:spec)
 
 task :run do
   ENV['testing'] = 'FALSE'
