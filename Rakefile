@@ -12,5 +12,6 @@ end
 RSpec::Core::RakeTask.new(:spec)
 
 task :run do
+  puts "Listening on 0.0.0.0:3030"
   `dashing start`
 end

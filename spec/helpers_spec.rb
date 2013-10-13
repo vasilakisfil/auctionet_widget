@@ -11,6 +11,7 @@ describe Helpers do
         json_data = JSON.parse(response)
         results = Hash.new
         results = Helpers::parse_json_data(json_data)
+        
         for num in 0..8 do
           expect(results[num][:item_id]).to eq(num)
           expect(results[num][:title]).to eq("title#{num}")

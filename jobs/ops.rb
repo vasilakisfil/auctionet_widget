@@ -2,10 +2,10 @@ require 'httparty'
 require 'json'
 require 'timerizer'
 require 'open-uri'
-
 require_relative '../lib/helpers'
 
-# :first_in sets how long it takes before the job is first run. In this case, it is run immediately
+# :first_in sets how long it takes before the job is first run. In this case,
+# it is run immediately
 #
 
 if !ENV['REFRESH_TIME']
@@ -14,9 +14,7 @@ else
   refresh_time = ENV["REFRESH_TIME"]
 end
 
-
 SCHEDULER.every refresh_time, :first_in => 0 do |job|
-  puts refresh_time
   response = HTTParty.get("http://auctionet.com/api/v2/items.json?order=bid_on")
   if response.code === 200
     json_response = JSON.parse(response.body)
@@ -34,8 +32,8 @@ SCHEDULER.every refresh_time, :first_in => 0 do |job|
           ends_at: Time.until(results[num][:ends_at]).to_s(:short),
           bid_amount: results[num][:bid_amount],
           bid_time: Time.since(results[num][:bid_time]).to_s(:micro)
-        })
+        }
+      )
     end
-
   end
 end

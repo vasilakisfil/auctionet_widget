@@ -17,7 +17,11 @@ describe "Dashboards" do
 
     for num in 0..7 do
       @results[num][:auth_token] = "YOUR_AUTH_TOKEN"
-      HTTParty.post("http://localhost:3030/widgets/image_#{num}", :body => @results[num].to_json)
+      #barsoom style
+      HTTParty.post(
+        "http://localhost:3030/widgets/image_#{num}",
+        :body => @results[num].to_json
+      )
     end
   end
 

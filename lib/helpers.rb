@@ -2,8 +2,6 @@ require 'timerizer'
 require 'date'
 
 module Helpers
-
-
   def Helpers.parse_json_data(json_response)
     app_link = "http://auctionet.com"
     results = Hash.new
@@ -21,6 +19,6 @@ module Helpers
       result[:bid_time] = Time.at(bid_epoch_time)
       results[num] = result
     end
-    return results
+    results
   end
 end
