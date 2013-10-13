@@ -9,7 +9,7 @@ require_relative '../lib/helpers'
 #
 
 
-SCHEDULER.every '30s', :first_in => 0 do |job|
+SCHEDULER.every '300s', :first_in => 0 do |job|
   response = HTTParty.get("http://auctionet.com/api/v2/items.json?order=bid_on")
   if response.code === 200
     json_response = JSON.parse(response.body)
