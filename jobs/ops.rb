@@ -8,8 +8,15 @@ require_relative '../lib/helpers'
 # :first_in sets how long it takes before the job is first run. In this case, it is run immediately
 #
 
+if !ENV['REFRESH_TIME']
+  refresh_time = "1s"
+else
+  refresh_time = ENV["REFRESH_TIME"]
+end
 
-SCHEDULER.every '300s', :first_in => 0 do |job|
+
+SCHEDULER.every refresh_time, :first_in => 0 do |job|
+  puts refresh_time
   response = HTTParty.get("http://auctionet.com/api/v2/items.json?order=bid_on")
   if response.code === 200
     json_response = JSON.parse(response.body)
@@ -29,6 +36,6 @@ SCHEDULER.every '300s', :first_in => 0 do |job|
           bid_time: Time.since(results[num][:bid_time]).to_s(:micro)
         })
     end
+
   end
 end
-
