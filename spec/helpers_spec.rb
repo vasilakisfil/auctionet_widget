@@ -24,9 +24,4 @@ describe Helpers do
     end
   end
 
-  describe ".send_event_data" do
-
-
-
-  end
 end

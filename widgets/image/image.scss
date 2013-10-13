@@ -1,0 +1,38 @@
+// ----------------------------------------------------------------------------
+// Sass declarations
+// ----------------------------------------------------------------------------
+$background-color:  #4b4b4b;
+
+// ----------------------------------------------------------------------------
+// Widget-image styles
+// ----------------------------------------------------------------------------
+.widget-image {
+  background-color: $background-color;
+
+  .stable-div {
+    width: 90px;
+    height: 90px;
+  }
+  .auctionet-banner {
+    width: 90px;
+  }
+  .auctionet-img {
+    width: 120px;
+    height: 120px;
+  }
+  .mrgn-btm1 {
+    margin-bottom: 10px;
+  }
+  .mrgn-btm2 {
+    margin-bottom: 20px;
+  }
+
+  .font10 {
+    font-size: 10pt;
+  }
+  .font12 {
+    font-size: 12pt;
+  }
+}
+
+

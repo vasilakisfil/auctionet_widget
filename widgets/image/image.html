@@ -1,0 +1,17 @@
+<img class="auctionet-img mrgn-btm1" data-bind-src="image" />
+<br />
+<table>
+  <caption class="mrgn-btm1 font10" data-bind="title"></caption>
+  <tbody class="font12">
+    <tr>
+      <th>Last bid</th>
+      <td data-bind="bid_amount | append ' SEK'"></td>
+      <td data-bind="bid_time | append ' ago'"></td>
+    </tr>
+    <tr>
+      <th>Time left</th>
+      <td colspan="2" data-bind="ends_at"></td>
+    </tr>
+  </tbody>
+</table>
+<a data-bind-href="item_href" data-bind="item_id"></a>
